@@ -1,1 +1,1 @@
-pw = "yourInstaPasswordHereq"
+pw = ""
